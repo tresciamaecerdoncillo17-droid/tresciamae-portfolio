@@ -127,3 +127,14 @@ nav a:hover {
     color: #0f4c81;
     margin-top: 0;
 }
+.project {
+    background: #f8fafc;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.project h4 {
+    color: #0f4c81;
+    margin-top: 0;
+}
